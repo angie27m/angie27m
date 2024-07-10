@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend semisenior engineer at Crehana<br>Software Developer with +3 years of experience skilled in Java, Angular and more. <br>System engineering professional, graduated from Universidad de Cundinamarca.
+Backend semisenior engineer at Crehana<br>Software Developer with over 4 years of experience skilled in Java, Angular and more. <br>System engineering professional, graduated from Universidad de Cundinamarca.
 
 
 ## 🌐 Socials:
