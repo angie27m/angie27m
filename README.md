@@ -5,7 +5,7 @@
 <div align="center" width="50">
 
 # 💫 About Me:
-Software Developer with over 4 years of experience skilled in Java, Angular and more. <br>System engineering professional, graduated from Universidad de Cundinamarca.
+Software Developer with experience in backend development skilled in Java, Angular and more. <br>System engineering professional, graduated from Universidad de Cundinamarca.
 
 
 ## 🌐 Socials:
